@@ -21,5 +21,5 @@ with open(filename, 'w') as outfile
     outfile.write("Use Virtualbox\t%s\n" % use_virtualbox)
     outfile.write("Text Editor\t%s\n" % text_editor)
     outfile.write("New to Python?\t%s\n" % new_to_python)
-    outfile.write("New to Programming?\t%s\n"  new_t_programming)
+    outfile.write("New to Programming?\t%s\n"  new_to_programming)
 
